@@ -1,25 +1,25 @@
 # FILE-HANDLING-UTILITY
 
-NAME: KALYANI SITARAM MAHAJAN
+*NAME*: KALYANI SITARAM MAHAJAN
 
-COMPANY: CODTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
-INTERN ID: CT04DA245
+*INTERN ID*: CT04DA245
 
-DOMAIN: JAVA PROGRAMMING
+*DOMAIN*: JAVA PROGRAMMING
 
-DURATION: 4 WEEKS
+*DURATION*: 4 WEEKS
 
-MENTOR: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
-OUTPUT: 
+*OUTPUT*:
 ![Image](https://github.com/user-attachments/assets/6a409006-a06c-46cf-a1e1-4fdd1e41335b)
 
 ![Image](https://github.com/user-attachments/assets/0ffeac7e-0cd3-44ae-9114-748635418470)
 
 ![Image](https://github.com/user-attachments/assets/143b3138-d213-47a4-b83f-622efa8a3781)
 
-DESCRIPTION:
+*DESCRIPTION*:
 The Java program is a simple *file handling utility* that performs:
 1. Writing text to a file (`sample.txt`)
 2. Reading contents from the file
@@ -43,6 +43,4 @@ The sample output shows a user:
 3. Modifying `"test"` to `"sample"` — then reading the file again.
 4. Exiting the program cleanly.
 
-*Conclusion*
-This is a beginner-friendly, interactive CLI tool demonstrating *basic file I/O*, *string manipulation*, and *exception handling* in Java. The output confirms each operation behaves as expected.
 
